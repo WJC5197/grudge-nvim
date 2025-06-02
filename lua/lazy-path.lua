@@ -1,0 +1,1 @@
+/nix/store/nz7zid9yyblkq27nsqgln141gk3ljjp2-home-manager-files/.config/nvim/lua/lazy-path.lua
